@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This fork is no longer active.** Longshot now lives at
+> **[git.magicbean.dev/MagicBeanDev/Longshot](https://git.magicbean.dev/MagicBeanDev/Longshot)**. Please open issues and
+> pull requests there. This repository is archived and kept only for history.
+
 <h1 align="center">
   <img src="assets/longshot.png" alt="Longshot" width="200">
   <br>
